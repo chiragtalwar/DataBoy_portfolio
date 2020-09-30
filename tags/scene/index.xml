@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Chirag Talwar</title>
+    <link>https://chiragtalwar9090.github.io/DataBoy_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Chirag Talwar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://chiragtalwar9090.github.io/DataBoy_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ice Cream Revenue Estimator</title>
+      <link>https://chiragtalwar9090.github.io/DataBoy_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://chiragtalwar9090.github.io/DataBoy_portfolio/post/project-1/</guid>
+      <description> Created a tool that estimates the Ice Cream revenue at varying temperatures Imported dataset from kaggle with 500 data points Engineered feature to remove Null Values and imbalancement Used Linear Regression to predict Ice cream Revenue at different temperatures    </description>
+    </item>
+    
+  </channel>
+</rss>
