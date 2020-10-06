@@ -4,28 +4,14 @@
   
   <url>
     <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/post/project-1/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/tags/scene/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/tags/</loc>
-    <lastmod>2020-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,6 +44,12 @@
   
   <url>
     <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://chiragtalwar9090.github.io/DataBoy_portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

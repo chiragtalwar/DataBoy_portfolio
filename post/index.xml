@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Project 1: Ice Cream Revenue Estimator</title>
+      <title>Project 1: Car Selling Price Estimator</title>
       <link>https://chiragtalwar9090.github.io/DataBoy_portfolio/post/project-1/</link>
-      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 05 Oct 2020 10:58:08 -0400</pubDate>
       
       <guid>https://chiragtalwar9090.github.io/DataBoy_portfolio/post/project-1/</guid>
-      <description>Created a tool that estimates the Ice Cream revenue at varying temperatures Imported dataset from kaggle with 500 data points Engineered feature to remove Null Values and imbalancement Used Linear Regression to predict Ice cream Revenue at different temperatures    Link to GitHub Repository</description>
+      <description>Created a tool that estimates the car selling price based on dataset from CarDekho.com Imported dataset from kaggle with rougly 10000 data points. Performed Feature Engineering, Feature Selection, Data cleaning and EDA to prepare the dataset. Used RandomForestRegressor and Hyperparamter tuning to predict selling price based on 8 features with an accuracy of 81%. Deployed the app using flask on Heroku Dashboard Link to app:(https://carsellingprice00.herokuapp.com/)  -Link to GitHub Repository</description>
     </item>
     
     <item>
